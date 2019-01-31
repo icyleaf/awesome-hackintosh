@@ -63,12 +63,6 @@ A curated list of awesome articles, kexts, tools and shiny things for Hackintosh
 - Wireless
 - Bluetooth
 
-- FakeSMC (none of the underscore sensor plugins needed, app not needed, just the one kext)
-- IntelMausiEthernet
-
-- WhateverGreen
-- USBInjectAll
-
 ## EFIs
 
 ## Tutorial
